@@ -14,15 +14,15 @@ The goal of this project is to understand if and how ad spending influences vote
 
 2. **Exploratory Data Analysis (EDA)**:
    - **Total Ad Spend by State**: Analyzed the total ad spend in INR across different states.
-     - [Total Ad Spend by State Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/topadSpendbyState.png)
+     - ![Total Ad Spend by State Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/topadSpendbyState.png)
    - **Average Voter Turnout by State**: Examined the average voter turnout percentage across states.
-     - [Average Voter Turnout by State Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/avgvoterturnputbystate.png)
+     - ![Average Voter Turnout by State Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/avgvoterturnputbystate.png)
    - **Top 5 Parties by Ad Spend**: Identified the top 5 political parties based on their ad spend.
-     - [Top 5 Parties by Ad Spend Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/top%205%20parties%20by%20ad%20spend.png)
+     - ![Top 5 Parties by Ad Spend Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/top%205%20parties%20by%20ad%20spend.png)
    - **Distribution of Ad Spend**: Analyzed the distribution of ad spend across constituencies.
-     - [Ad Spend Distribution Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/dist%20of%20ad%20spend.png)
+     - ![Ad Spend Distribution Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/dist%20of%20ad%20spend.png)
    - **Ad Spend and Voter Turnout by Election Phase**: Examined ad spend and voter turnout across different election phases.
-     - [Ad Spend and Voter Turnout by Phase Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/ad%20spend%20and%20voter%20trun%20out%20by%20elction%20phase.png)
+     - ![Ad Spend and Voter Turnout by Phase Plot](https://github.com/aarish22/ElectionAdSpendingAnalysis/blob/main/Plots/ad%20spend%20and%20voter%20trun%20out%20by%20elction%20phase.png)
 
 3. **Key Findings**:
    - Larger states like Uttar Pradesh, Maharashtra, and Odisha have the highest ad spend.
