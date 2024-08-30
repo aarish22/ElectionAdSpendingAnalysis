@@ -49,15 +49,5 @@ To replicate the analysis:
    ```
 3. Run the analysis notebook:
    ```bash
-   jupyter notebook Ad_Spend_Voter_Turnout_Analysis.ipynb
+   jupyter notebook ElectionAdSpendandvoterTurnoutAnalysis.ipynb
    ```
-
-## **Links to Interactive Plots**
-
-- [Total Ad Spend by State](https://plotly.com/~user/1)
-- [Average Voter Turnout by State](https://plotly.com/~user/2)
-- [Top 5 Parties by Ad Spend](https://plotly.com/~user/3)
-- [Correlation Matrix](https://plotly.com/~user/4)
-- [Ad Spend and Voter Turnout by Constituency](https://plotly.com/~user/5)
-- [Distribution of Ad Spend](https://plotly.com/~user/6)
-- [Ad Spend and Voter Turnout by Election Phase](https://plotly.com/~user/7)
